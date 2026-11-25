@@ -11,3 +11,6 @@ wheels/
 
 # Environment files
 .env
+
+# Locally generated ingestion output
+processed_data/
